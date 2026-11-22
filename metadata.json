@@ -1,0 +1,6 @@
+{
+  "name": "لمّاح | Lammah — منصة إدارة رحلة أعضاء الجمعيات",
+  "description": "منصة ذكية لإدارة رحلة أعضاء الجمعيات وتمكين جمعية تجربة العميل السعودية عبر وكيل ذكاء اصطناعي يحوّل أهداف الأعضاء إلى فرص ومبادرات استباقية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
